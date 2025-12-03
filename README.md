@@ -1,4 +1,5 @@
 # OK-Waste: Responsible Waste Management Framework  
+# چرخه اقتصادی پایدار، کاهش ضایعات، توانمندسازی اجتماعی
 ### Designed by **Mostafa Seyedabadi**  
 ### For Ofogh Kourosh, Okala & Golrang Industrial Group  
 ---
