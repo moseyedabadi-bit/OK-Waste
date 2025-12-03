@@ -1,0 +1,22 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ResearchProject",
+  "name": "OK-Waste – Responsible Waste Management Framework",
+  "creator": {
+    "@type": "Person",
+    "name": "Mostafa Seyedabadi"
+  },
+  "description": "A circular economy and responsible waste management framework designed for Ofogh Kourosh and Okala, focusing on dry and wet waste streams, social impact, and SDG alignment.",
+  "keywords": [
+    "OK-Waste",
+    "Ofogh Kourosh",
+    "Okala",
+    "Circular Economy",
+    "ESG",
+    "SDG12",
+    "Waste Management",
+    "BSF",
+    "Recycling"
+  ],
+  "url": "https://github.com/moseyedabadi-bit/OK-Waste"
+}
