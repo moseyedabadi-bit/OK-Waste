@@ -101,4 +101,10 @@
 بیش از آن‌که به ایده‌های درخشان وابسته باشد،
 به مرجع‌های شفاف، قابل استعلام و قابل یادگیری نیاز دارد.
 
+
+---
+## Related Ethical Framework
+- Makkah & Madinah – Responsible Waste Management Framework:
+  https://github.com/moseyedabadi-bit/makkah-madinah-waste
+
 - 
