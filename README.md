@@ -14,6 +14,107 @@ In this project, “ESG Enabler” means designing mechanisms that **enable meas
 - **S (Social):** incentives, community participation, charity/impact routing, citizen engagement
 - **G (Governance):** traceability, auditable flows, anti-leakage controls, transparent allocation rules
 
+---
+# OK-Waste  
+### Circular & Responsible Waste Management Framework  
+### for Retail Chains & Last-Mile Fleets
+
+---
+
+**Designer / Concept Steward:** Mostafa Seyedabadi  
+**Role:** ESG Enabler (Circular Economy · Responsible Retail · Social Impact)  
+
+OK-Waste is a practical, traceability-ready framework for responsible waste management and circular economy implementation in large-scale retail environments and last-mile logistics.
+
+This project is designed to **enable measurable ESG outcomes**, not merely report them.
+
+---
+
+## What is OK-Waste?
+
+OK-Waste is an integrated waste-management and circular-economy model focused on:
+
+- Retail stores (high-frequency consumer waste)
+- Last-mile fleets and local aggregation
+- Dry & wet waste separation at source
+- Transparent material flow and value recovery
+- Incentive-aligned social and environmental impact
+
+The framework is designed to be **operationally realistic**, **financially viable**, and **ESG-auditable**.
+
+---
+
+## ESG Enabler — What It Means in This Project
+
+In OK-Waste, an **ESG Enabler** is not a reporting role, but a system-design role.
+
+This project enables ESG through concrete mechanisms:
+
+### Environmental (E)
+- Waste diversion from landfill
+- Material recovery and recycling routing
+- Organic waste pathways (compost / biological processing)
+- Reduction of uncontrolled disposal
+
+### Social (S)
+- Citizen and customer participation
+- Incentive-based responsible behavior
+- Charity-linked value routing
+- Community engagement and awareness
+
+### Governance (G)
+- Traceable waste and value flows
+- Clear allocation rules
+- Anti-leakage mechanisms
+- Audit-friendly structure for ESG reporting
+
+---
+
+## Scope of the Framework
+
+- **Waste Types:** Dry & Wet
+- **Environment:** Retail stores, warehouses, delivery fleets
+- **Scale:** Pilot-ready → multi-city → national
+- **Stakeholders:** Retailers, municipalities, recyclers, NGOs, communities
+
+---
+
+## Design Philosophy
+
+- Responsibility before monetization  
+- Traceability before scale  
+- Incentives before enforcement  
+- Governance before reporting  
+
+This repository documents the **conceptual architecture**, **operational logic**, and **governance principles** of OK-Waste.
+
+---
+
+## About the Designer
+
+**Mostafa Seyedabadi**  
+ESG Enabler · Concept Steward · System Architect  
+
+Focused on designing **enabling systems** for:
+- Circular Economy
+- Responsible Waste Management
+- ESG-aligned operations
+- Social-impact-linked incentives
+
+This project is presented in the spirit of stewardship, not ownership.
+
+---
+
+## License & Usage
+
+This framework is published for **open reference and responsible use**.  
+Attribution is appreciated but not required where it limits adoption for public good.
+
+---
+
+> Circular systems work only when responsibility is designed into them.
+
+---
 # چرخه اقتصادی پایدار، کاهش ضایعات، توانمندسازی اجتماعی
 ### Designed by **Mostafa Seyedabadi**  
 ### For Ofogh Kourosh, Okala & Golrang Industrial Group  
