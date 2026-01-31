@@ -1,4 +1,4 @@
- OK-Waste: Responsible Waste Management Framework  
+# OK-Waste: Responsible Waste Management Framework  
 
 **Designer / Concept Steward:** Mostafa Seyedabadi  
 **Role:** ESG Enabler (Circular Economy, Responsible Retail, Social Impact)  
