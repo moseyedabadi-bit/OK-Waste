@@ -13,7 +13,8 @@ In this project, “ESG Enabler” means designing mechanisms that **enable meas
 - **E (Environment):** diversion from landfill, material recovery, organic routing (e.g., compost/BSF)
 - **S (Social):** incentives, community participation, charity/impact routing, citizen engagement
 - **G (Governance):** traceability, auditable flows, anti-leakage controls, transparent allocation rules
-
+---
+What is OK-Waste
 ---
 # OK-Waste  
 ### Circular & Responsible Waste Management Framework  
