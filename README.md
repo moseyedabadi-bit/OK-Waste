@@ -1,4 +1,19 @@
 # OK-Waste: Responsible Waste Management Framework  
+
+**Designer / Concept Steward:** Mostafa Seyedabadi  
+**Role:** ESG Enabler (Circular Economy, Responsible Retail, Social Impact)  
+**Scope:** Dry & Wet waste | Retail stores + last-mile fleet | Traceable value chain  
+**Alignment:** ESG reporting | SDG 12 | Circular Economy
+**طراح / امانت‌دار ایده:** مصطفی سیدآبادی  
+**نقش:** توانمندساز ESG (اقتصاد چرخشی، مسئولیت‌پذیری اجتماعی، اثرگذاری)  
+
+
+## ESG Enabler (in OK-Waste)
+In this project, “ESG Enabler” means designing mechanisms that **enable measurable ESG outcomes**:
+- **E (Environment):** diversion from landfill, material recovery, organic routing (e.g., compost/BSF)
+- **S (Social):** incentives, community participation, charity/impact routing, citizen engagement
+- **G (Governance):** traceability, auditable flows, anti-leakage controls, transparent allocation rules
+
 # چرخه اقتصادی پایدار، کاهش ضایعات، توانمندسازی اجتماعی
 ### Designed by **Mostafa Seyedabadi**  
 ### For Ofogh Kourosh, Okala & Golrang Industrial Group  
