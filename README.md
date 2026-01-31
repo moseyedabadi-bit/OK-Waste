@@ -17,102 +17,136 @@ In this project, “ESG Enabler” means designing mechanisms that **enable meas
 ---
 # OK-Waste  
 ### Circular & Responsible Waste Management Framework  
-### for Retail Chains & Last-Mile Fleets
+### for Retail Chains & Last-Mile Fleets  
+### چارچوب مدیریت مسئولانه پسماند و اقتصاد چرخشی  
+### ویژه فروشگاه‌های زنجیره‌ای و ناوگان توزیع
 
 ---
 
 **Designer / Concept Steward:** Mostafa Seyedabadi  
-**Role:** ESG Enabler (Circular Economy · Responsible Retail · Social Impact)  
+**Role:** ESG Enabler (Circular Economy · Responsible Retail · Social Impact)
 
+**طراح / امانت‌دار ایده:** مصطفی سیدآبادی  
+**نقش:** توانمندساز ESG (اقتصاد چرخشی · خرده‌فروشی مسئولانه · اثرگذاری اجتماعی)
+
+---
+
+## What is OK-Waste? | OK-Waste چیست؟
+
+**EN:**  
 OK-Waste is a practical, traceability-ready framework for responsible waste management and circular economy implementation in large-scale retail environments and last-mile logistics.
 
 This project is designed to **enable measurable ESG outcomes**, not merely report them.
 
----
+**FA:**  
+OK-Waste یک چارچوب اجرایی و قابل ردیابی برای مدیریت مسئولانه پسماند و پیاده‌سازی اقتصاد چرخشی در مقیاس فروشگاه‌های زنجیره‌ای و ناوگان توزیع است.
 
-## What is OK-Waste?
-
-OK-Waste is an integrated waste-management and circular-economy model focused on:
-
-- Retail stores (high-frequency consumer waste)
-- Last-mile fleets and local aggregation
-- Dry & wet waste separation at source
-- Transparent material flow and value recovery
-- Incentive-aligned social and environmental impact
-
-The framework is designed to be **operationally realistic**, **financially viable**, and **ESG-auditable**.
+این پروژه برای **توانمندسازی نتایج قابل اندازه‌گیری ESG** طراحی شده است، نه صرفاً گزارش‌دهی.
 
 ---
 
-## ESG Enabler — What It Means in This Project
+## ESG Enabler — What It Means Here  
+## ESG Enabler یعنی چه در این پروژه؟
 
-In OK-Waste, an **ESG Enabler** is not a reporting role, but a system-design role.
+**EN:**  
+In OK-Waste, an **ESG Enabler** is not a reporting role, but a **system design role**.  
+The focus is on building mechanisms that naturally produce ESG outcomes.
 
-This project enables ESG through concrete mechanisms:
+**FA:**  
+در OK-Waste، «توانمندساز ESG» یک نقش گزارشی نیست؛ بلکه **نقش طراحی سیستم** است.  
+تمرکز بر ساخت سازوکارهایی است که به‌صورت طبیعی خروجی‌های ESG ایجاد می‌کنند.
 
-### Environmental (E)
-- Waste diversion from landfill
-- Material recovery and recycling routing
+---
+
+## ESG Dimensions | ابعاد ESG
+
+### Environmental (E) | محیط‌زیست
+- Waste diversion from landfill  
+- Material recovery and recycling routing  
 - Organic waste pathways (compost / biological processing)
-- Reduction of uncontrolled disposal
 
-### Social (S)
-- Citizen and customer participation
-- Incentive-based responsible behavior
+- کاهش دفن پسماند  
+- بازیافت و بازگردانی مواد  
+- مسیرهای پردازش پسماند تر (کمپوست / زیستی)
+
+### Social (S) | اجتماعی
+- Citizen and customer participation  
+- Incentive-based responsible behavior  
 - Charity-linked value routing
-- Community engagement and awareness
 
-### Governance (G)
-- Traceable waste and value flows
-- Clear allocation rules
-- Anti-leakage mechanisms
-- Audit-friendly structure for ESG reporting
+- مشارکت مردم و مشتریان  
+- مشوق‌های رفتاری مسئولانه  
+- هدایت ارزش به مسیرهای خیریه و اجتماعی
 
----
+### Governance (G) | حاکمیت
+- Traceable waste and value flows  
+- Clear allocation rules  
+- Audit-friendly structure
 
-## Scope of the Framework
-
-- **Waste Types:** Dry & Wet
-- **Environment:** Retail stores, warehouses, delivery fleets
-- **Scale:** Pilot-ready → multi-city → national
-- **Stakeholders:** Retailers, municipalities, recyclers, NGOs, communities
+- ردیابی شفاف جریان پسماند و ارزش  
+- قواعد تخصیص مشخص  
+- ساختار مناسب حسابرسی و گزارش ESG
 
 ---
 
-## Design Philosophy
+## Scope of the Framework | دامنه چارچوب
+
+**EN:**
+- Waste Types: Dry & Wet  
+- Environment: Retail stores, warehouses, delivery fleets  
+- Scale: Pilot → multi-city → national  
+- Stakeholders: Retailers, municipalities, recyclers, NGOs
+
+**FA:**
+- نوع پسماند: خشک و تر  
+- محیط اجرا: فروشگاه‌ها، انبارها، ناوگان توزیع  
+- مقیاس: پایلوت → چندشهری → ملی  
+- ذی‌نفعان: فروشگاه‌ها، شهرداری‌ها، بازیافت‌کنندگان، نهادهای اجتماعی
+
+---
+
+## Design Philosophy | فلسفه طراحی
 
 - Responsibility before monetization  
 - Traceability before scale  
 - Incentives before enforcement  
 - Governance before reporting  
 
-This repository documents the **conceptual architecture**, **operational logic**, and **governance principles** of OK-Waste.
+- مسئولیت قبل از درآمد  
+- شفافیت قبل از توسعه  
+- مشوق قبل از اجبار  
+- حاکمیت قبل از گزارش‌دهی
 
 ---
 
-## About the Designer
+## About the Designer | درباره طراح
 
 **Mostafa Seyedabadi**  
 ESG Enabler · Concept Steward · System Architect  
 
-Focused on designing **enabling systems** for:
-- Circular Economy
-- Responsible Waste Management
-- ESG-aligned operations
-- Social-impact-linked incentives
+**EN:**  
+Focused on designing enabling systems for circular economy, responsible waste management, and ESG-aligned operations.
 
-This project is presented in the spirit of stewardship, not ownership.
+**FA:**  
+متمرکز بر طراحی سیستم‌های توانمندساز برای اقتصاد چرخشی، مدیریت مسئولانه پسماند و عملیات همسو با ESG.
 
----
-
-## License & Usage
-
-This framework is published for **open reference and responsible use**.  
-Attribution is appreciated but not required where it limits adoption for public good.
+This project is presented in the spirit of **stewardship, not ownership**.  
+این پروژه با رویکرد **امانت‌داری، نه مالکیت** ارائه شده است.
 
 ---
 
-> Circular systems work only when responsibility is designed into them.
+## License & Usage | مجوز و استفاده
+
+**EN:**  
+This framework is published for open reference and responsible use.
+
+**FA:**  
+این چارچوب برای استفاده آزاد و مسئولانه منتشر شده است.
+
+---
+
+> **EN:** Circular systems work only when responsibility is designed into them.  
+> **FA:** سیستم‌های چرخشی تنها زمانی کار می‌کنند که مسئولیت در طراحی آن‌ها لحاظ شده باشد.
 
 ---
 # چرخه اقتصادی پایدار، کاهش ضایعات، توانمندسازی اجتماعی
