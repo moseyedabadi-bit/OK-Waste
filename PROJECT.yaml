@@ -1,0 +1,38 @@
+schema_version: 1
+project:
+  name: OK-Waste
+  type: conceptual-operational-framework
+  status: research-development
+  domains:
+    - circular-economy
+    - responsible-waste-management
+    - esg
+    - responsible-retail
+  primary_language: English
+  secondary_language: Persian
+  human_entry: README.md
+  ai_entry: llms.txt
+  documentation_root: docs/
+  author:
+    name: Mostafa Seyedabadi
+    role: Concept Steward / ESG Enabler / System Architect
+scope:
+  environments:
+    - retail-stores
+    - warehouses
+    - last-mile-logistics
+  waste_types:
+    - dry
+    - wet
+  lifecycle: pilot-to-scaled-reference
+interpretation:
+  deployment_claim: false
+  institutional_endorsement_claim: false
+  requires_local_validation: true
+  legacy_ai_guidance:
+    - LLM-hints
+    - LLM-HINTS.md
+safety:
+  prohibit_secrets: true
+  prohibit_sensitive_personal_data: true
+  prohibit_private_production_identifiers: true
