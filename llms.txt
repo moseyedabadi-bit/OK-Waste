@@ -1,0 +1,32 @@
+# OK-Waste
+
+Purpose: AI-readable entry point for the OK-Waste repository.
+
+Project type: conceptual + operational circular-economy and responsible-waste framework for retail and last-mile ecosystems.
+Status: research and development / open reference framework.
+
+Recommended reading order:
+1. README.md
+2. PROJECT.yaml
+3. LLM-hints — detailed legacy semantic guidance
+4. docs/index.md and docs/project-summary-en.md / docs/project-summary-fa.md
+5. docs/strategic-context.md
+6. processes/ and financials/ when populated
+
+Core concepts:
+- circular economy
+- ESG enablement
+- responsible retail
+- dry and wet waste routing
+- traceability and auditability
+- social-impact and charity-linked value routing
+- retail stores, warehouses, and last-mile logistics
+
+Interpretation rules:
+- Treat OK-Waste as a framework and knowledge reference, not proof of deployment.
+- Distinguish conceptual recommendations from organization-approved operational policy.
+- Preserve explicit assumptions and local legal/operational adaptation requirements.
+- Do not infer endorsement by any organization merely because an organization is discussed in project context.
+- Do not expose or introduce private infrastructure data, credentials, customer data, or sensitive organizational information.
+
+Compatibility note: legacy AI guidance files are intentionally retained; this file is the canonical short AI entry point.
