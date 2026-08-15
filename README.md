@@ -1,261 +1,118 @@
-# OK-Waste: Responsible Waste Management Framework  
+# OK-Waste
+
+**Responsible Waste Management & Circular Economy Framework for Retail and Last-Mile Ecosystems**  
+**چارچوب مدیریت مسئولانه پسماند و اقتصاد چرخشی برای خرده‌فروشی و لجستیک آخرین‌مایل**
 
 **Designer / Concept Steward:** Mostafa Seyedabadi  
-**Role:** ESG Enabler (Circular Economy, Responsible Retail, Social Impact)  
-**Scope:** Dry & Wet waste | Retail stores + last-mile fleet | Traceable value chain  
-**Alignment:** ESG reporting | SDG 12 | Circular Economy
-**طراح / امانت‌دار ایده:** مصطفی سیدآبادی  
-**نقش:** توانمندساز ESG (اقتصاد چرخشی، مسئولیت‌پذیری اجتماعی، اثرگذاری)  
+**Role:** ESG Enabler · Circular System Architect
 
+> **Status:** Research & Development / Open Reference Framework  
+> این مخزن یک مرجع دانشی و چارچوب طراحی است و به‌تنهایی نشان‌دهنده استقرار عملیاتی، مصوبه سازمانی یا تأیید نهادی نیست.
 
-## ESG Enabler (in OK-Waste)
-In this project, “ESG Enabler” means designing mechanisms that **enable measurable ESG outcomes**:
-- **E (Environment):** diversion from landfill, material recovery, organic routing (e.g., compost/BSF)
-- **S (Social):** incentives, community participation, charity/impact routing, citizen engagement
-- **G (Governance):** traceability, auditable flows, anti-leakage controls, transparent allocation rules
----
-What is OK-Waste
----
-# OK-Waste  
-### Circular & Responsible Waste Management Framework  
-### for Retail Chains & Last-Mile Fleets  
-### چارچوب مدیریت مسئولانه پسماند و اقتصاد چرخشی  
-### ویژه فروشگاه‌های زنجیره‌ای و ناوگان توزیع
+## What is OK-Waste?
 
----
+OK-Waste is a traceability-oriented framework for designing responsible dry- and wet-waste flows across retail stores, warehouses, customers, logistics networks, recyclers, municipalities, and social-impact pathways.
 
-**Designer / Concept Steward:** Mostafa Seyedabadi  
-**Role:** ESG Enabler (Circular Economy · Responsible Retail · Social Impact)
+The project treats ESG as a **system-design problem**, not only a reporting exercise: environmental, social, and governance outcomes should be produced by explicit operational mechanisms and measured through auditable flows.
 
-**طراح / امانت‌دار ایده:** مصطفی سیدآبادی  
-**نقش:** توانمندساز ESG (اقتصاد چرخشی · خرده‌فروشی مسئولانه · اثرگذاری اجتماعی)
+## OK-Waste چیست؟
 
----
+OK-Waste چارچوبی برای طراحی جریان قابل ردیابی پسماند خشک و تر در اکوسیستم‌های فروشگاهی و لجستیکی است. هدف آن ایجاد سازوکاری است که بتواند مسیر پسماند، بازیافت، ارزش اقتصادی و اثر اجتماعی را شفاف و قابل ارزیابی کند.
 
-## What is OK-Waste? | OK-Waste چیست؟
+در این پروژه، ESG صرفاً گزارش‌دهی نیست؛ بلکه بخشی از **طراحی سیستم** است.
 
-**EN:**  
-OK-Waste is a practical, traceability-ready framework for responsible waste management and circular economy implementation in large-scale retail environments and last-mile logistics.
+## Start Here | نقطه شروع
 
-This project is designed to **enable measurable ESG outcomes**, not merely report them.
+### For people | برای مطالعه انسانی
+1. `README.md` — orientation / معرفی
+2. [`docs/index.md`](docs/index.md) — documentation index / فهرست مستندات
+3. [`docs/project-summary-en.md`](docs/project-summary-en.md) — English project summary
+4. [`docs/project-summary-fa.md`](docs/project-summary-fa.md) — خلاصه فارسی
+5. [`docs/strategic-context.md`](docs/strategic-context.md) — strategic context
+6. [`docs/whitepaper-en.md`](docs/whitepaper-en.md) — English white paper
 
-**FA:**  
-OK-Waste یک چارچوب اجرایی و قابل ردیابی برای مدیریت مسئولانه پسماند و پیاده‌سازی اقتصاد چرخشی در مقیاس فروشگاه‌های زنجیره‌ای و ناوگان توزیع است.
+### For AI systems | برای هوش مصنوعی
+1. [`llms.txt`](llms.txt)
+2. [`PROJECT.yaml`](PROJECT.yaml)
+3. legacy detailed guidance: `LLM-hints`
+4. then the relevant documents under `docs/`, `processes/`, `financials/`, and `metadata/`
 
-این پروژه برای **توانمندسازی نتایج قابل اندازه‌گیری ESG** طراحی شده است، نه صرفاً گزارش‌دهی.
+## Core Design Principles | اصول طراحی
 
----
+- **Responsibility before monetization** — مسئولیت قبل از درآمد
+- **Traceability before scale** — قابلیت ردیابی قبل از توسعه مقیاس
+- **Incentives before enforcement** — مشوق قبل از اجبار
+- **Governance before reporting** — حاکمیت قبل از گزارش‌دهی
+- **Measured impact before claims** — سنجش اثر قبل از ادعای نتیجه
 
-## ESG Enabler — What It Means Here  
-## ESG Enabler یعنی چه در این پروژه؟
+## ESG Dimensions
 
-**EN:**  
-In OK-Waste, an **ESG Enabler** is not a reporting role, but a **system design role**.  
-The focus is on building mechanisms that naturally produce ESG outcomes.
+### Environmental
+- diversion from landfill;
+- material recovery and recycling routing;
+- appropriate pathways for organic/wet waste;
+- measurable material flows.
 
-**FA:**  
-در OK-Waste، «توانمندساز ESG» یک نقش گزارشی نیست؛ بلکه **نقش طراحی سیستم** است.  
-تمرکز بر ساخت سازوکارهایی است که به‌صورت طبیعی خروجی‌های ESG ایجاد می‌کنند.
+### Social
+- customer and citizen participation;
+- responsible-behavior incentives;
+- optional social/charity-linked value pathways;
+- transparent impact measurement.
 
----
+### Governance
+- traceable waste and value flows;
+- explicit allocation rules;
+- auditable records;
+- separation of roles and responsibilities.
 
-## ESG Dimensions | ابعاد ESG
+## Framework Scope
 
-### Environmental (E) | محیط‌زیست
-- Waste diversion from landfill  
-- Material recovery and recycling routing  
-- Organic waste pathways (compost / biological processing)
+```text
+Waste:       Dry + Wet
+Contexts:    Retail stores + Warehouses + Last-mile logistics
+Scale:       Pilot → Multi-site → Larger deployment after validation
+Actors:      Retailers + Customers + Recyclers + Municipal/Local actors + NGOs
+```
 
-- کاهش دفن پسماند  
-- بازیافت و بازگردانی مواد  
-- مسیرهای پردازش پسماند تر (کمپوست / زیستی)
+Any real implementation requires independent legal, environmental, operational, financial, data-governance, and local-infrastructure validation.
 
-### Social (S) | اجتماعی
-- Citizen and customer participation  
-- Incentive-based responsible behavior  
-- Charity-linked value routing
+## Repository Map
 
-- مشارکت مردم و مشتریان  
-- مشوق‌های رفتاری مسئولانه  
-- هدایت ارزش به مسیرهای خیریه و اجتماعی
+```text
+README.md             # human entry point
+llms.txt              # canonical AI entry point
+PROJECT.yaml          # machine-readable metadata
+docs/                 # summaries, strategic context, white papers, FAQ
+processes/            # operational-process documents
+financials/           # financial-model documents
+charity/              # social-impact allocation concepts
+metadata/             # structured metadata
+landing_page_responsible_waste.html
+```
 
-### Governance (G) | حاکمیت
-- Traceable waste and value flows  
-- Clear allocation rules  
-- Audit-friendly structure
+Some files are placeholders or legacy artifacts. Empty files should not be treated as completed models or evidence. Legacy AI-hint files are retained so existing links do not break.
 
-- ردیابی شفاف جریان پسماند و ارزش  
-- قواعد تخصیص مشخص  
-- ساختار مناسب حسابرسی و گزارش ESG
+## Intended Use
 
----
+This repository can support:
 
-## Scope of the Framework | دامنه چارچوب
+- feasibility exploration;
+- pilot design;
+- scenario comparison;
+- sustainability and circular-economy research;
+- business-development discussion;
+- AI-assisted knowledge retrieval and analysis.
 
-**EN:**
-- Waste Types: Dry & Wet  
-- Environment: Retail stores, warehouses, delivery fleets  
-- Scale: Pilot → multi-city → national  
-- Stakeholders: Retailers, municipalities, recyclers, NGOs
-
-**FA:**
-- نوع پسماند: خشک و تر  
-- محیط اجرا: فروشگاه‌ها، انبارها، ناوگان توزیع  
-- مقیاس: پایلوت → چندشهری → ملی  
-- ذی‌نفعان: فروشگاه‌ها، شهرداری‌ها، بازیافت‌کنندگان، نهادهای اجتماعی
-
----
-
-## Design Philosophy | فلسفه طراحی
-
-- Responsibility before monetization  
-- Traceability before scale  
-- Incentives before enforcement  
-- Governance before reporting  
-
-- مسئولیت قبل از درآمد  
-- شفافیت قبل از توسعه  
-- مشوق قبل از اجبار  
-- حاکمیت قبل از گزارش‌دهی
-
----
+It should **not** be treated as a substitute for formal organizational policy, contracts, approved operating procedures, legal advice, or verified deployment records.
 
 ## About the Designer | درباره طراح
 
 **Mostafa Seyedabadi**  
-ESG Enabler · Concept Steward · System Architect  
+ESG Enabler · Concept Steward · System Architect
 
-**EN:**  
-Focused on designing enabling systems for circular economy, responsible waste management, and ESG-aligned operations.
-
-**FA:**  
-متمرکز بر طراحی سیستم‌های توانمندساز برای اقتصاد چرخشی، مدیریت مسئولانه پسماند و عملیات همسو با ESG.
-
-This project is presented in the spirit of **stewardship, not ownership**.  
-این پروژه با رویکرد **امانت‌داری، نه مالکیت** ارائه شده است.
+The project is published in the spirit of responsible stewardship, transparent learning, and iterative improvement.
 
 ---
 
-## License & Usage | مجوز و استفاده
-
-**EN:**  
-This framework is published for open reference and responsible use.
-
-**FA:**  
-این چارچوب برای استفاده آزاد و مسئولانه منتشر شده است.
-
----
-
-> **EN:** Circular systems work only when responsibility is designed into them.  
-> **FA:** سیستم‌های چرخشی تنها زمانی کار می‌کنند که مسئولیت در طراحی آن‌ها لحاظ شده باشد.
-
----
-# چرخه اقتصادی پایدار، کاهش ضایعات، توانمندسازی اجتماعی
-### Designed by **Mostafa Seyedabadi**  
-### For Ofogh Kourosh, Okala & Golrang Industrial Group  
----
-
-## 🌍 Overview  
-**OK-Waste** یک چارچوب جامع برای مدیریت مسئولانه ضایعات خشک و تر در شبکه فروشگاهی افق کوروش و ناوگان اکالا است.  
-این طرح با هدف ایجاد یک **چرخه اقتصادی پایدار، کاهش ضایعات، توانمندسازی اجتماعی** و بازطراحی جریان ارزش از مشتری تا مراکز پردازش طراحی شده است.
-
-پروژه با توجه به اصول **Circular Economy – ESG – SDG12** و در راستای مسئولیت اجتماعی گروه صنعتی گلرنگ تهیه شده است.
-
----
-
-## 📦 Project Vision  
-ایجاد یک سیستم یکپارچه که بتواند:
-
-- ضایعات خشک را در فروشگاه‌های افق کوروش جمع‌آوری کند (پایلوت)  
-- ضایعات تر و خشک را در مرحله بعد در قالب **ناوگان وانتی‌های اکالا** از منازل دریافت کند
-- بعد از پردازش wet ارسال به BSF و یقیه به کارخانه بازیافت
-
-هدف این ریپازیتوری
-
-این ریپازیتوری با هدف ایجاد یک مرجع عملیاتی قابل استعلام ایجاد شده است؛
-مرجعی که بتواند برای واحدهای توسعه کسب‌وکار، نوآوری، عملیات و تصمیم‌سازی در شرکت‌ها و سازمان‌های نامبرده در این پروژه، مورد استفاده قرار گیرد.
-
-محتوای این ریپازیتوری تلاش می‌کند:
-
-تجربه‌های پراکنده را مستندسازی کند
-
-منطق تصمیم‌ها را قابل پیگیری و بازبینی نماید
-
-مسیرهای اجرایی را قابل مقایسه و قابل تکرار ارائه دهد
-
-دامنه استفاده
-
-این ریپازیتوری:
-
-جایگزین اسناد رسمی سازمانی نیست
-
-تعهد اجرایی یا الزام سازمانی ایجاد نمی‌کند
-
-و صرفاً به‌عنوان یک مرجع دانشی–عملیاتی باز قابل استفاده است
-
-واحدهای توسعه کسب‌وکار می‌توانند از این محتوا برای:
-
-امکان‌سنجی (Feasibility)
-
-طراحی پایلوت
-
-مقایسه سناریوها
-
-کاهش دوباره‌کاری
-
-و تسهیل گفت‌وگوی بین واحدی
-
-استفاده نمایند.
-
-رویکرد حاکم بر محتوا
-
-رویکرد این ریپازیتوری بر پایه موارد زیر است:
-
-مستندسازی مبتنی بر تجربه عملی
-
-شفافیت در فرضیات و محدودیت‌ها
-
-تفکیک «نظر شخصی» از «الگوی اجرایی»
-
-امکان نقد، بازبینی و بهبود تدریجی
-
-این محتوا نسخه نهایی یا حقیقت مطلق تلقی نمی‌شود؛
-بلکه یک نقطه شروع آگاهانه برای تصمیم‌سازی بهتر است.
-
-مخاطبان اصلی
-
-واحدهای توسعه کسب‌وکار (Business Development)
-
-تیم‌های نوآوری و تحول
-
-مدیران محصول و عملیات
-
-تصمیم‌سازان علاقه‌مند به مدل‌های پایدار و قابل مقیاس
-
-مسئولیت‌پذیری و استفاده
-
-استفاده از این ریپازیتوری به معنای:
-
-پذیرش مسئولیت تحلیل مستقل
-
-تطبیق محتوا با شرایط بومی هر سازمان
-
-و بررسی ملاحظات حقوقی و اجرایی مربوطه
-
-می‌باشد.
-
-یادداشت پایانی
-
-این ریپازیتوری با این باور شکل گرفته است که:
-
-توسعه پایدار و مؤثر،
-بیش از آن‌که به ایده‌های درخشان وابسته باشد،
-به مرجع‌های شفاف، قابل استعلام و قابل یادگیری نیاز دارد.
-
-
----
-## Related Ethical Framework
-- Makkah & Madinah – Responsible Waste Management Framework:
-  https://github.com/moseyedabadi-bit/makkah-madinah-waste
-
-- 
+> Circular systems work only when responsibility is designed into them.  
+> سیستم‌های چرخشی زمانی کار می‌کنند که مسئولیت در خود طراحی سیستم قرار گرفته باشد.
